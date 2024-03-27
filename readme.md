@@ -74,20 +74,20 @@ This is the list of countries which have either implemented the GDPR or are reco
 
 ## Adequate country
 
- - Andorra 
- - Argentina
- - Canada
- - Faroe Islands
- - Guernsey
- - Israel 
- - Isle of Man
- - Japan
- - Jersey
- - New Zealand
- - Republic of Korea
- - Switzerland
- - United Kingdom
- - Uruguay
+- Andorra 
+- Argentina
+- Canada
+- Faroe Islands
+- Guernsey
+- Israel 
+- Isle of Man
+- Japan
+- Jersey
+- New Zealand
+- Republic of Korea
+- Switzerland
+- United Kingdom
+- Uruguay
 
 <!-- END CONTENT -->
 

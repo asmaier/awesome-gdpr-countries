@@ -84,7 +84,7 @@ This is the list of countries which have either implemented the GDPR or are reco
 - Japan
 - Jersey
 - New Zealand
-- Republic of Korea
+- South Korea
 - Switzerland
 - United Kingdom
 - Uruguay

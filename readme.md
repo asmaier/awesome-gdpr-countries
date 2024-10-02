@@ -13,7 +13,7 @@ The list of GDPR compliant countries
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/320px-Flag_of_Europe.svg.png" />
 </a>
 
 <!-- description -->
